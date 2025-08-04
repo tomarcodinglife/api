@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Kiran Patel",
+      "email": "kiran.patel1@yahoo.com",
+      "age": 60,
+      "gender": "male"
+    },
+    {
+      "id": "2",
+      "name": "Rahul Yadav",
+      "email": "rahul.yadav2@rediffmail.com",
+      "age": 35,
+      "gender": "male"
+    },
+    {
+      "id": "3",
+      "name": "Suresh Reddy",
+      "email": "suresh.reddy3@yahoo.com",
+      "age": 47,
+      "gender": "male"
+    },
+    {
+      "name": "Sumit Pahariya",
+      "age": "40",
+      "email": "spahariya@gmail.com",
+      "gender": "XYZ",
+      "id": "58f1"
+    },
+    {
+      "name": "Abhinav",
+      "age": "50",
+      "email": "ab@test.com",
+      "gender": "XYZ",
+      "id": "ff12"
+    },
+    {
+      "id": "6b35",
+      "name": "Aman Singh",
+      "email": "aman@tet.com",
+      "age": "40",
+      "gender": "Male"
+    }
+  ]
+}
